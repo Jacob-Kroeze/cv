@@ -1,0 +1,11 @@
+# Jacob Kroeze's experience
+
+## 2016-2017
+
+- Application Manager (Spring web app) at USC
+  - Project manager and contributer
+
+## 2014-2017
+
+- pg_fact (PostgreSQL and PostgREST based operational research tool) at USSC
+  - Project manager and contributer
