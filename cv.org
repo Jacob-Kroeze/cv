@@ -1,11 +1,11 @@
 * Jacob Kroeze's experience
 
-** 2016-2017
+** 2017-present
 
-- Application Manager (Spring web app) at USC
-  - Project manager and contributer
+- Project manager and contributor to the decision support systems for the USC Provost office.
+- Product manager and contributer to the USC faculty application and recruitment system.
 
 ** 2014-2017
 
-- pg_fact (PostgreSQL and PostgREST based operational research tool) at USSC
+- pg_fact (PostgreSQL and PostgREST based operational research tool) at USC
   - Project manager and contributer
