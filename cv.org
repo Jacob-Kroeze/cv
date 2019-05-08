@@ -1,19 +1,24 @@
 * Jacob Kroeze's experience
 
-** 2017-present
+9+ Years in Higher Education Administration
 
+** 2017-present University of Southern California
+   
 - Project manager and contributor to the decision support systems for the USC Provost office.
 - Product manager and contributer to the USC faculty application and recruitment system.
 
-** 2014-2017
-
-- pg_fact (PostgreSQL and PostgREST based operational research tool) at USC
+** 2014-2017 Open Source
+   
+- `pg_fact` (PostgreSQL and PostgREST based operational research tool) at USC
   - Project manager and contributer
   
-** 2012-2013
+** 2012-2013 Hebrew Union College
 
 - Admissions coordinator at Hebrew Union College:
   - Application flow design, customer support, data entry, reporting
   - Designed and implemented electronic imports of GRE records
 
+** 2010-2012 Hebrew Union College
+
+- Adminstritative assistant to head of Rabbinical Program Hebrew Union College
 
