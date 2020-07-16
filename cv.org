@@ -4,13 +4,19 @@
 
 ** 2017-present University of Southern California
    
-- Project manager and contributor to the decision support systems for the USC Provost office.
-- Product manager and contributer to the USC faculty application and recruitment system.
-
+- Graph-based entity-resolution for Decision support systems
+  - Author, Maintainer
+  - System description, role: Joins data by "business keys" at 1 or more hops away
+    - Enables querying across ad-hoc tables from separate OLTP systems.
+- Decision support systems for the USC Provost office.
+  - Project manager and contributor
+- USC faculty application and recruitment system.
+  - Product manager and contributor
+  
 ** 2014-2017 Open Source
    
 - `pg_fact` (PostgreSQL and PostgREST based operational research tool) at USC
-  - Project manager and contributer
+  - Project manager and contributor
   
 ** 2012-2013 Hebrew Union College
 
@@ -20,5 +26,5 @@
 
 ** 2010-2012 Hebrew Union College
 
-- Adminstritative assistant to head of Rabbinical Program Hebrew Union College
+- Administrative assistant to head of Rabbinical Program Hebrew Union College
 
