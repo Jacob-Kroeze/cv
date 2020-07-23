@@ -6,12 +6,14 @@
    
 - Graph-based entity-resolution for Decision support systems
   - Author, Maintainer
-  - System description, role: Joins data by "business keys" at 1 or more hops away
+  - System description, role: Clojure/ Ubergraph library. Joins data by "business keys" at 1 or more hops away
     - Enables querying across ad-hoc tables from separate OLTP systems.
 - Decision support systems for the USC Provost office.
+  - Clojure, Integrant/Duct system, uses Apache Camel
   - Project manager and contributor
 - USC faculty application and recruitment system.
   - Product manager and contributor
+  - Spring/Java
   
 ** 2014-2017 Open Source
    
